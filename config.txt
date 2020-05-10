@@ -1,0 +1,11 @@
+sql  1. Bases de datos
+xls  2. Excel
+csv  2. Excel
+docx  3. Word
+pdf  4. PDF
+rar  5. Archivos Comprimidos
+zip  5. Archivos Comprimidos
+exe  6. Ejecutables
+jpg  7. Imagenes
+png  7. Imagenes
+torrent  8. Torrents
